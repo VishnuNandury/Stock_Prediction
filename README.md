@@ -2,8 +2,9 @@
 Deep Learning models to predict Open and Close Prices of a stock and comparison between model with sentiment data and model without sentiment data
 
 # Data pre-proccessing
-We have two types of data, News and Charts
-News data is used to generate Sentiment (VADER_Sentiment) and is merged with Charts data which will be given as input to the model.
+We have two types of data, News and Charts.
+
+The News data is used to generate Sentiment (VADER_Sentiment) and is merged with Charts data which will be given as input to the model.
 we can select input features and target variables accordingly
 
 # CNN-LSTM:
